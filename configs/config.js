@@ -9,7 +9,7 @@ module.exports = {
     }
   },
   wallet : {
-    privateKey : "8361AAA19234680CB896B6B075926D5398050BA038BFB8C2502B95F0DAFD2512",
+    privateKey : "",
   },
   infuraKey: '',
   rpcNetwork : {
